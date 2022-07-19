@@ -1,4 +1,7 @@
 description: A new TrueGRF project
-license: CC0-1.0
+grfid: f1dd5d9f
+license: CC-BY-NC-SA-4.0
+name: brindustries
 type: industry
+url: https://github.com/speeder/brindustries
 version: 6
